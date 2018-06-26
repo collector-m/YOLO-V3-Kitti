@@ -5,6 +5,21 @@ Train YOLO-V3-Kitti
 * Image download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_2.zip
 * label download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_label_2.zip
 
+### original class
+|	class_name	|	count	|
+|	:-:	|	:-:	|
+|	DontCare	|	15782	|
+|	Person_sitting	|	222	|
+|	Pedestrian	|	0	|
+|	Car	|	28742	|
+|	Tram	|	511	|
+|	Misc	|	973	|
+|	Cyclist	|	1627	|
+|	Truck	|	1094	|
+|	Van	|	2914	|
+#### pie chart
+
+
 ### Custom class
 |Class name (string in label file)|	Class ID (number in database)|comment|
 |:-:|:-:|:-:|
