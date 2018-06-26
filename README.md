@@ -15,6 +15,9 @@ Train YOLO-V3-Kitti
 |bus|4||
 |truck|5|include [Truck, Van, Tram]|
 
+### Training Data util
+Train:Test:Val: 8:1:1
+
 ### Ref:
 ### yolo v3
 If you use YOLOv3 in your work please cite our paper!
