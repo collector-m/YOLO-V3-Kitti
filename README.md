@@ -39,23 +39,7 @@ Train YOLO-V3-Kitti
 If you use YOLOv3 in your work please cite our paper!
 @article{yolov3,
   title={YOLOv3: An Incremental Improvement},
-  author={Redmon, Joseph and Farhadi, AClass name (string in label file)	Class ID (number in database)
-dontcare	0
-car	1
-van	2
-truck	3
-bus	4
-pickup	5
-vehicle-with-trailer	6
-special-vehicle	7
-person	8
-person-fa	9
-person?	10
-people	11
-cyclist	12
-tram	13
-person_sitting	14
-li},
+  author={Redmon, Joseph and Farhadi, Ali},
   journal = {arXiv},
   year={2018}
 }
