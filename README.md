@@ -5,6 +5,10 @@ Train YOLO-V3-Kitti
 * Image download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_2.zip
 * label download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_label_2.zip
 
+### Training Data util
+* Total:7481
+* Train:Test:Val: 8:1:1
+
 ### original class
 |	class_name	|	count	|
 |	:-:	|	:-:	|
@@ -29,10 +33,6 @@ Train YOLO-V3-Kitti
 |motorcycle|3||
 |bus|4||
 |truck|5|include [Truck, Van, Tram]|
-
-### Training Data util
-* Total:7481
-* Train:Test:Val: 8:1:1
 
 ### Ref:
 ### yolo v3
