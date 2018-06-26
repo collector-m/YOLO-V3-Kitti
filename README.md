@@ -16,7 +16,8 @@ Train YOLO-V3-Kitti
 |truck|5|include [Truck, Van, Tram]|
 
 ### Training Data util
-Train:Test:Val: 8:1:1
+* Total:7481
+* Train:Test:Val: 8:1:1
 
 ### Ref:
 ### yolo v3
