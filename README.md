@@ -5,7 +5,7 @@ Train YOLO-V3-Kitti
 * Image download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_2.zip
 * label download link:https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_label_2.zip
 
-### Training Data util
+### Data Split
 * Total:7481
 * Train:Test:Val: 8:1:1
 
