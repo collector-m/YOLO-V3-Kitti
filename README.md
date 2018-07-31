@@ -27,12 +27,9 @@ Train YOLO-V3-Kitti
 ### Custom class
 |Class name (string in label file)|	Class ID (number in database)|comment|
 |:-:|:-:|:-:|
-|Person|0|include [Pedestrian, Person_sitting, cyclist]|
-|bicycle|1||
-|car|2||
-|motorcycle|3||
-|bus|4||
-|truck|5|include [Truck, Van, Tram]|
+|Car|0|include [Truck, Van, Tram]|
+|Truck|1||
+|Person|2|include [Pedestrian, Person_sitting, cyclist]|
 
 ### Ref:
 ### yolo v3
